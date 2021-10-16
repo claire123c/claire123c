@@ -1,4 +1,8 @@
 ### Hi there 👋
+- My name is Claire and I'm a Full Stack Software Engineer in the Bay Area
+- Languages and Tools:
+- 📫 How to reach me: 
+<a href="https://www.linkedin.com/in/claire123c/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <!--
 **claire123c/claire123c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

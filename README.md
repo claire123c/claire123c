@@ -73,6 +73,9 @@
   <a href="https://expo.dev/" target="_blank">
     <img alt="Expo" src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white" />
   </a>
+  <a href="https://reactnative.dev/" target="_blank">
+    <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  </a>
   <a href="https://git-scm.com/" target="_blank">
     <img alt="git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   </a>

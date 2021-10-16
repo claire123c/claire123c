@@ -1,5 +1,6 @@
-### Hi there 👋
-- My name is Claire and I'm a Full Stack Software Engineer in the Bay Area
+#### Hi there 👋
+- My name is Claire and I'm a Full Stack Software Engineer in the Bay Area :bridge_at_night:
+- 
 - Languages and Tools:
 - 📫 How to reach me: 
 <p>

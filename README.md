@@ -1,9 +1,9 @@
-<h1>Hi there 👋</h1> 
+<h1>Hello World &nbsp; :earth_americas:</h1> 
 
-- :bridge_at_night: My name is Claire and I'm a Full Stack Software Engineer in the Bay Area 
-- 🔭 &nbsp;I’m currently working at Asana where I'm constantly in pursuit of self-improvement
-- 🌱  I’m currently learning TypeScript
-- 💬  Ask me about career transitions! I'm a bootcamp grad from Hack Reactor!
+- :bridge_at_night: &nbsp; My name is Claire and I'm a Full Stack Software Engineer in the Bay Area 
+- 🔭 &nbsp; I’m currently working at Asana where I'm constantly in pursuit of self-improvement
+- 🌱 &nbsp; I’m currently learning TypeScript
+- 💬 &nbsp; Ask me about career transitions! I'm a bootcamp grad from Hack Reactor!
 <h3> 📫  How to reach me: </h3>
   <p>
     <a href="https://github.com/claire123c" target="_blank">

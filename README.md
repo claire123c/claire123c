@@ -1,4 +1,4 @@
-#### Hi there 👋
+<h1>Hi there 👋</h1> 
 - My name is Claire and I'm a Full Stack Software Engineer in the Bay Area :bridge_at_night:
 - 
 - Languages and Tools:

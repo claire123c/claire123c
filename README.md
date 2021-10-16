@@ -1,7 +1,9 @@
 <h1>Hi there 👋</h1> 
+
 - My name is Claire and I'm a Full Stack Software Engineer in the Bay Area :bridge_at_night:
-- 
-- Languages and Tools:
+- 🔭 I’m currently working at Asana where I'm constantly in pursuit of self-improvement
+- 🌱 I’m currently learning TypeScript
+- 💬 Ask me about career transitions! I'm a bootcamp grad from Hack Reactor!
 - 📫 How to reach me: 
 <p>
   <a href="https://github.com/claire123c" target="_blank">
@@ -11,6 +13,10 @@
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+
+- Languages and Tools:
+
+
 
 <!--
 **claire123c/claire123c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,7 +1,7 @@
 <h1>Hello World &nbsp; :earth_americas:</h1> 
 
 - :bridge_at_night: &nbsp; My name is **Claire** and I'm a Full Stack Software Engineer in the Bay Area 
-- 💬 &nbsp; Ask me about career transitions! I'm a bootcamp grad from Hack Reactor!
+
 <h3> 📫  &nbsp; How to reach me: </h3>
   <p>
     <a href="https://github.com/claire123c" target="_blank">
